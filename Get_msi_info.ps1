@@ -376,6 +376,3 @@ end {
         [GC]::WaitForPendingFinalizers()
     }
 }
-
-To call on this script:
-C:\Users\user\Desktop\Get_msi_info.ps1 -Path "C:\Users\user\Desktop\test.msi" -IncludeHash -PassThru
