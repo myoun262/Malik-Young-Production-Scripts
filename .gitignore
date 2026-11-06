@@ -1,0 +1,4 @@
+# Incident evidence contains potentially sensitive machine and user information.
+# Default collector output folders may occur at any level in a local checkout.
+IR-*/
+*.evtx
